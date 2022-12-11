@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/b4weather/static/css/main.07521c82.chunk.css",
-    "main.js": "/b4weather/static/js/main.9eb51876.chunk.js",
-    "main.js.map": "/b4weather/static/js/main.9eb51876.chunk.js.map",
+    "main.js": "/b4weather/static/js/main.d39464e6.chunk.js",
+    "main.js.map": "/b4weather/static/js/main.d39464e6.chunk.js.map",
     "runtime-main.js": "/b4weather/static/js/runtime-main.23aed6d9.js",
     "runtime-main.js.map": "/b4weather/static/js/runtime-main.23aed6d9.js.map",
     "static/css/2.af34670d.chunk.css": "/b4weather/static/css/2.af34670d.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.af34670d.chunk.css",
     "static/js/2.c650ffa1.chunk.js",
     "static/css/main.07521c82.chunk.css",
-    "static/js/main.9eb51876.chunk.js"
+    "static/js/main.d39464e6.chunk.js"
   ]
 }
